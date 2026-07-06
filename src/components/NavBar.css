@@ -1,0 +1,8 @@
+nav{
+    background-color: darkgrey;
+    ul li{
+        text-decoration: none;
+        display: inline-block;
+        margin: 0 12px; 
+    }
+}
